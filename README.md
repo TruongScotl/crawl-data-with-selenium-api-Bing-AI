@@ -1,4 +1,4 @@
-# crawl datawith selenium and api Bing AI
+# crawl data with selenium and api Bing AI
 * API Bing Chat follow here: https://github.com/acheong08/EdgeGPT
 * API Google map follow here: https://github.com/googlemaps/google-maps-services-python
 This repo crawl information of company: <br />
